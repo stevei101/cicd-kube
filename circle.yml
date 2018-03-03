@@ -1,4 +1,5 @@
 ## Customize the test machine
+# based on https://github.com/kubernetes/contrib/continuousdelivery/circle.yml 
 machine:
 #  services: uncomment if using circleci.com
 #    - docker #uncomment if using circleci.com or the container docker daemon
